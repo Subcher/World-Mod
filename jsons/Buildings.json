@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Film Studio",
+        "replaces": "Broadcast Tower",
+        "uniqueTo": "America",
+        "cost": 500,
+        "culture": 4,
+        "percentStatBonus": {"culture": 100},
+        "specialistSlots": {"Artist": 1},
+        "greatPersonPoints": {"culture": 2},
+        "maintenance": 3,
+        "requiredTech": "Radio",
+    },
+]
