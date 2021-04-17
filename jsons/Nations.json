@@ -26,6 +26,9 @@
 			"Leoben","Klosterneuburg","Leonding","Kapfenberg","Hallein","Bischofshofen","Saalbach","Lienz","Steyr",]	
 	},
 	{
+		"name": "Colombia",
+	},
+	{
 		"name": "Denmark",
 		"leaderName": "Harald Bluetooth",
 		"adjective": ["Danish"],
