@@ -27,6 +27,28 @@
 	},
 	{
 		"name": "Colombia",
+		"leaderName": "Ivan Duque",
+		"adjective": ["Colombian"],
+		"startBias": ["Hills","Jungle","Coast"],
+//		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "Prepare to lose your nation of opression!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated": "I hope you treat my people good, don´t take away their culture.",
+		"introduction": "Greetings! This is Colombia, my wordeful land. Want a coffee?",
+		"neutralHello": "Hello There.",
+		"hateHello": "Assh, what do you want?",
+		"tradeRequest": "I thought you might be intested in this...",
+		
+		"outerColor": [245,217,0],
+		"innerColor": [1,57,150],
+		
+		"uniqueName": "Colombian Coffee Axis",
+		"uniques": ["[+1 Gold] from every [Plantation]","[+2 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
+		
+		"cities": ["Bogotá","Cartagena","Medellín","Tunja","Barranquilla","Cali","Bucaramanga","Cúcuta","Santa Marta","Manizales",
+			    "Tunja","Pereira","Ibagué","Neiva","Villavicencio","Pasto","Armenia","Florencia","Valleduar","Popayán","Quibdó",
+			    "Riohacha","Yopal","Sincelejo","Montería","Arauca","Leticia","Buenaventura","Mitú"]
 	},
 	{
 		"name": "Denmark",
