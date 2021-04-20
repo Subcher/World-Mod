@@ -13,4 +13,31 @@
 		"uniques": ["+[33]% combat bonus in [Hill]"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Arpia",
+		"uniqueTo": "Colombia",
+		"replaces": "Helicopter Gunship",
+		"unitType": "Melee",
+		"movement": 6,
+		"strength": 70,
+		"cost": 500,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["Bonus vs Armor 100%", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement",
+			"Can pass through impassable tiles", "Unable to capture cities"],
+	},
+	{
+		"name": "Colombian Infantry",
+		"uniqueTo": "Colombia",
+		"replaces": "Infantry",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 70,
+		"cost": 395,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["Ignores terrain cost", "+[10]% combat bonus in [Forest]", "+[15]% combat bonus in [Jungle]", "+[10]% combat bonus in [Hills]"],
+		"attackSound": "shot"
+	},
 ]
