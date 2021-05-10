@@ -80,7 +80,7 @@
 			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"]
 	},
 	{
-		"name": "England",
+		"name": "United Kingdom",
 		"leaderName": "Victoria",
 		"adjective": ["English"],
 		"startBias": ["Coast"],
@@ -202,6 +202,29 @@
 			"Kassa","Kecskemét","Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Zágráb","Temesvár","Nagyvázsony",
 			"Hódmezővásárhely","Sümeg","Baja"]
 	},
+	 {
+		"name": "Mexico",
+		"leaderName": "Andrés López",
+		"adjective": ["Mexican"],
+		"startBias": ["Avoid [Tundra]", "Avoid [Grassland]"],
+//      	"preferredVictoryType": "Diplomatic",
+
+		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"attacked": "Mexicans! Prepare to defend our homeland!",
+		"defeated": "Nooo, why? Everything I did was for our motherland.",
+		"introduction": "Good morning, I'm Andres Lopez. Come with me and see my nation.",
+		"neutralHello": "Good day amigo.",
+		"hateHello": "Arghh no, go away.",
+		"tradeRequest": "Could you accept this trade offer?",
+
+		"outerColor": [141,169,141],
+		"innerColor": [171,86,43],
+
+		"uniqueName": "Day of the Death",
+                "uniques": ["[+2 Culture] from every [Trading post]"],
+
+                "cities": ["
+	 },
 	{
 		"name": "Netherlands", 
 		"leaderName": "Wilhelmina",
