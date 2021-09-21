@@ -1,19 +1,5 @@
 [
 	{
-		"name": "Rough Rider",
-		"uniqueTo": "America (1901-1909)",
-		"replaces": "Cavalry",
-		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 40,
-		"cost": 190,
-		"requiredTech": "Military Science",
-		"obsoleteTech": "Combustion",
-		"upgradesTo": "Landship",
-		"uniques": ["+[33]% combat bonus in [Hill]"],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Arpia",
 		"uniqueTo": "Colombia",
 		"replaces": "Helicopter Gunship",
@@ -27,7 +13,7 @@
 			"Can pass through impassable tiles", "Unable to capture cities"],
 	},
 	{
-		"name": "Colombian Infantry",
+		"name": "Galil ACE",
 		"uniqueTo": "Colombia",
 		"replaces": "Infantry",
 		"unitType": "Melee",
