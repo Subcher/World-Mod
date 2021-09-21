@@ -1,10 +1,11 @@
-﻿[
+[
+	//European
 	{
 		"name": "Austria",
 		"leaderName": "",
 		"adjective": ["Austrian"],
 		"startBias": ["Hill"],
-//		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Noble and virtuous Queen Maria Theresa, Holy Roman Empress and sovereign of Austria, your people bow to your gracious will. Following the death of your father, King Charles VI, you ascended to the throne of Austria during the time of great instability, but the empty coffers and diminished military did little to dissuade your ambitions. Faced with war almost immediately upon your succession to the throne, you managed to fend off your foes, and in naming your husband, Francis Stephen, co-ruler, assured your place as Empress of the Holy Roman Empire. During your reign, you guided Austria on a new path of reform - strengthening the military, replenishing the treasury, and improving the education system of the kingdom.",
 		"startIntroPart2": "Oh great queen, bold and dignified, the time has come for you to rise and guide your kingdom once again. Can you return your people to the height of prosperity and splendor? Will you build a civilization that will stand the test of time?",
@@ -24,31 +25,6 @@
 		"cities": ["Vienna","Salzburg","Graz","Linz","Klagenfurt","Bregenz","Innsbruck","Kitsbühel","St. Pölten","Eisenstadt",
 			"Villach","Zwettl","Traun","Weis","Dombim","Feldkirch","Amstetten","Bad Ischl","Wolfsberg","Kufstein",
 			"Leoben","Klosterneuburg","Leonding","Kapfenberg","Hallein","Bischofshofen","Saalbach","Lienz","Steyr",]	
-	},
-	{
-		"name": "Colombia",
-		"leaderName": "Ivan Duque",
-		"adjective": ["Colombian"],
-		"startBias": ["Hills","Jungle","Coast"],
-//		"preferredVictoryType": "Diplomatic",
-		
-		"declaringWar": "Prepare to lose your nation of opression!",
-		"attacked": "You will see how fruitless this will be for you. Wait and see.",
-		"defeated": "I hope you treat my people good, don´t take away their culture.",
-		"introduction": "Greetings! This is Colombia, my wordeful land. Want a coffee?",
-		"neutralHello": "Hello There.",
-		"hateHello": "Assh, what do you want?",
-		"tradeRequest": "I thought you might be intested in this...",
-		
-		"outerColor": [245,217,0],
-		"innerColor": [1,57,150],
-		
-		"uniqueName": "Colombian Coffee Axis",
-		"uniques": ["[+1 Gold] from every [Plantation]","[+2 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
-		
-		"cities": ["Bogotá","Cartagena","Medellín","Tunja","Barranquilla","Cali","Bucaramanga","Cúcuta","Santa Marta","Manizales",
-			    "Tunja","Pereira","Ibagué","Neiva","Villavicencio","Pasto","Armenia","Florencia","Valleduar","Popayán","Quibdó",
-			    "Riohacha","Yopal","Sincelejo","Montería","Arauca","Leticia","Buenaventura","Mitú"]
 	},
 	{
 		"name": "Denmark",
@@ -202,29 +178,6 @@
 			"Kassa","Kecskemét","Szombathely","Simontornya","Nyíregyháza","Sárvár","Sopron","Csesznek","Zágráb","Temesvár","Nagyvázsony",
 			"Hódmezővásárhely","Sümeg","Baja"]
 	},
-	 {
-		"name": "Mexico",
-		"leaderName": "Andrés López",
-		"adjective": ["Mexican"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Grassland]"],
-//      	"preferredVictoryType": "Diplomatic",
-
-		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
-		"attacked": "Mexicans! Prepare to defend our homeland!",
-		"defeated": "Nooo, why? Everything I did was for our motherland.",
-		"introduction": "Good morning, I'm Andres Lopez. Come with me and see my nation.",
-		"neutralHello": "Good day amigo.",
-		"hateHello": "Arghh no, go away.",
-		"tradeRequest": "Could you accept this trade offer?",
-
-		"outerColor": [141,169,141],
-		"innerColor": [171,86,43],
-
-		"uniqueName": "Day of the Death",
-                "uniques": ["[+2 Culture] from every [Trading post]"],
-
-                "cities": ["
-	 },
 	{
 		"name": "Netherlands", 
 		"leaderName": "Wilhelmina",
@@ -300,7 +253,7 @@
 		"leaderName": "Maria I",
 		"adjective": ["Portuguese"],
 		"startBias": ["Coast"],
-//		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Blessings be upon you, most gracious Queen Maria, protector and sovereign of the Portuguese people. As the first ever Queen regnant of Portugal, it was your wise stewardship that protected the royal court from the incursions of Napoleon, establishing a safe haven in Brazil to preserve the integrity of Portuguese rule. Despite struggling with illness throughout your reign, your effort to ensure Portugal's close cooperation with Brazil are credited with helping that state gain its eventual independence - and for this you will always be admired and respected by the people of both nations.",
 		"startIntroPart2": "Oh noble and pious queen, will you once again guide the kingdom of Portugal in the spirit of cooperation and prosperity? Will you establish a new legacy, one that will surpass all those who come before you? Can you build a civilization that will stand the test of time?",
@@ -321,29 +274,6 @@
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",
 			"Ponta Delgada"]			
-	},
-	{
-		"name": "Scotland", 
-		"leaderName": "Robert the Bruce",
-		"adjective": ["Scottish"],
-		"preferredVictoryType": "Scientific",
-
-		"declaringWar": "Now it's time for some juicy fights !",
-		"attacked": "You will pay this !",
-		"defeated": "Well, you defeated me ! R.I.P",
-
-		"introduction": "I am Robert the Bruce. Scotland follows me—be it through fields of wheat or of battle.",
-		"neutralHello": "Hmm. Agreed.",
-		"hateHello": "You reeking midden!",
-		"tradeRequest": "Please accept my people's finest gifts. Oh, and hark to the pipers! Are they not grand?",
-		"outerColor": [246,252,255],
-		"innerColor": [6,84,206],
-		"uniqueName": "Scottish Enlightenment",
-		"uniques": ["+15% science while empire is happy"],
-		"cities": ["Stirling","Edinburgh","Aberdeen","Roxburgh","Haddington","Dumfries","Dundee","Ayr","Cullen","Dumbarton",
-			"Scone","Forres","Montrose","Wigtown","Peairt","Selkirk","Peebles","Forfar","Berwick-upon-Tweed","Galashiels",
-			"Elgin","Glasgow","Saint Andrews","Inverness","Cumbernauld","Dunfermline","Linlithgow","Prestwick","Cupar","Clackmannan",
-			"Jedburgh",]	
 	},
 	{
 		"name": "Spain", 
@@ -392,4 +322,100 @@
 			"Karlskrona","Borås","Fort Kristina","Reval","Vasa","Östersund","Torshälla","Kungälv","Växjö","Riga",
 			"Sundsvall","Västervik","Gävle","Viborg","Hudiksvall","Visby","Fort Carolusborg","Åmål","Torneå","Kinda"]	
 	},
+
+
+	//American
+
+	{
+		"name": "Colombia",
+		"leaderName": "Ivan Duque",
+		"adjective": ["Colombian"],
+		"startBias": ["Hills","Jungle","Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "Prepare to lose your nation of opression!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated": "I hope you treat my people good, don´t take away their culture.",
+		"introduction": "Greetings! This is Colombia, my wordeful land. Want a coffee?",
+		"neutralHello": "Hello There.",
+		"hateHello": "Assh, what do you want?",
+		"tradeRequest": "I thought you might be intested in this...",
+		
+		"outerColor": [245,217,0],
+		"innerColor": [1,57,150],
+		
+		"uniqueName": "Colombian Coffee Axis",
+		"uniques": ["[+1 Gold] from every [Plantation]","[+2 Culture] from every [Plantation]","[+1 Food] from every [Hill]"],
+		
+		"cities": ["Bogotá","Cartagena","Medellín","Tunja","Barranquilla","Cali","Bucaramanga","Cúcuta","Santa Marta","Manizales",
+			    "Tunja","Pereira","Ibagué","Neiva","Villavicencio","Pasto","Armenia","Florencia","Valleduar","Popayán","Quibdó",
+			    "Riohacha","Yopal","Sincelejo","Montería","Arauca","Leticia","Buenaventura","Mitú"]
+	},
+	 {
+		"name": "Mexico",
+		"leaderName": "Andrés López",
+		"adjective": ["Mexican"],
+		"startBias": ["Avoid [Tundra]", "Avoid [Grassland]"],
+         	"preferredVictoryType": "Cultural",
+
+		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"attacked": "Mexicans! Prepare to defend our homeland!",
+		"defeated": "Nooo, why? Everything I did was for our motherland.",
+		"introduction": "Good morning, I'm Andres Lopez. Come with me and see my nation.",
+		"neutralHello": "Good day amigo.",
+		"hateHello": "Arghh no, go away.",
+		"tradeRequest": "Could you accept this trade offer?",
+
+		"outerColor": [141,169,141],
+		"innerColor": [171,86,43],
+
+		"uniqueName": "Day of the Death",
+                "uniques": ["[+2 Culture] from every [Trading post]"],
+
+                "cities": ["
+	 },
+   
+			   //Asian
+			   
+			   
+			   //African
+			   
+			   
+			   //Oceanian
+
+       //City-States
+
+	//European
+
+	//American
+
+	//African
+
+	//Asian
+
+	//Oceania
+
+			 {
+		"name": "Template",
+		"leaderName": " ",
+		"adjective": [" "],
+		"startBias": [" "],
+         	"preferredVictoryType": " ",
+
+		"declaringWar": "I declare war on you.",
+		"attacked": "We will defend from your attack",
+		"defeated": "Our country has been conquered",
+		"introduction": "Hello. I present you my nation.",
+		"neutralHello": "Hello",
+		"hateHello": "Go away",
+		"tradeRequest": "Let's do commerce",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+
+		"uniqueName": " ",
+                "uniques": [" "],
+
+                "cities": [" "],
+	 },	
 ]
